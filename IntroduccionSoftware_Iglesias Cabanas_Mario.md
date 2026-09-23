@@ -95,7 +95,8 @@ Un programa informático se caracteriza principalmente por ser:
 
 	*Imagen de desarrollo del software*
 
-	![Desarrollo del software](imagenes\Desarrolodelsoftware.jpg)
+	![Desarrollo de software](https://tse1.mm.bing.net/th/id/OIP.desarrolloSoftwareIlustracion?w=640&h=640&pid=ImgDet)
+
 
 
 
