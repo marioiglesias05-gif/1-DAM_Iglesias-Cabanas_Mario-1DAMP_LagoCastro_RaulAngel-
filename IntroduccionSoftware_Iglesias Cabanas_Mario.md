@@ -93,8 +93,16 @@ Un programa informático se caracteriza principalmente por ser:
 	7. *Mantenimiento*
 	Incluye corrección de errores, mejoras, actualizaciones y soporte continuo para asegurar la calidad del sistema.
 
+	*Imagen de desarrollo del software*
+	![Desarrollo del software](Desarrolodelsoftware.png)
+
+
+
 	*Enlace al repositorio*
 	https://github.com/marioiglesias05-gif/1-DAM_Iglesias-Cabanas_Mario-1DAMP_LagoCastro_RaulAngel-
+
+	
+
 
 
 
