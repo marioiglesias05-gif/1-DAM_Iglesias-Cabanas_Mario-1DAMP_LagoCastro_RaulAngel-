@@ -94,7 +94,7 @@ Un programa informático se caracteriza principalmente por ser:
 	Incluye corrección de errores, mejoras, actualizaciones y soporte continuo para asegurar la calidad del sistema.
 
 	*Imagen de desarrollo del software*
-	![Desarrollo de software](Imagenes/Desarrolodelsoftware.jpg)
+	![Desarrollo de software](Ic:\Users\Mario\Desktop\PRIMERO DAM\Entornos de desarrollo\Repositorios\1-DAM_Iglesias-Cabanas_Mario-1DAMV_LagoCastro_RaulAngel-\imagenes\Desarrolodelsoftware.jpg)
 
 
 
