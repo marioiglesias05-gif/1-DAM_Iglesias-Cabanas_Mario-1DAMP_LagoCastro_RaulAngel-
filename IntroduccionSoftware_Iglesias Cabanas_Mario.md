@@ -95,7 +95,9 @@ Un programa informático se caracteriza principalmente por ser:
 
 	*Imagen de desarrollo del software*
 
-	![Desarrollo de software](https://github.com/marioiglesias05-gif/1-DAM_Iglesias-Cabanas_Mario-1DAMP_LagoCastro_RaulAngel-/blob/main/imagenes/Desarrolodelsoftware.jpg)
+![Desarrollo de software](https://raw.githubusercontent.com/marioiglesias05-gif/1-DAM_Iglesias-Cabanas_Mario-1DAMP_LagoCastro_RaulAngel-/main/imagenes/Desarrolodelsoftware.jpg)
+
+
 
 
 
@@ -123,3 +125,6 @@ Un programa informático se caracteriza principalmente por ser:
 
 
 
+
+
+[def]: https://raw.githubusercontent.com/marioiglesias05-gif/1-DAM_Iglesias-Cabanas_Mario-1DAMP_LagoCastro_RaulAngel-/main/imagenes/Desarrolodelsoftware.jpg
